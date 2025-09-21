@@ -16,9 +16,9 @@ Quick Start：
 
 
 
-1：准备数据集：可以在 https://www.modelscope.cn/datasets/AKI11111/DatasetsForINSProject/files 中下载所有.wav文件，放在.py文件的同级目录下的ds文件夹内
+1：准备数据集：可以在 https://www.modelscope.cn/datasets/AKI11111/DatasetsForINSProject/files 中下载所有.wav文件，放在.py文件的同级目录下的ds文件夹内（新建一个）
 
-1: Prepare the dataset: pt.jsonl and sft.jsonl. You can download all the .wav files from https://www.modelscope.cn/datasets/AKI11111/DatasetsForINSProject/files and place them in the ds folder at the same level as the .py files.
+1: Prepare the dataset: pt.jsonl and sft.jsonl. You can download all the .wav files from https://www.modelscope.cn/datasets/AKI11111/DatasetsForINSProject/files and place them in the ds folder at the same level as the .py files.(build a new one)
 
 
 
